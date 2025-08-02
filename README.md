@@ -6,7 +6,7 @@ A full-stack habit and reminder tracker built with:
 - React + Tailwind CSS (frontend)
 - Python (serverless backend via AWS Lambda)
 - AWS Cognito for authentication
-- ☁AWS DynamoDB for data storage
+- AWS DynamoDB for data storage
 - AWS SNS/SES for optional SMS or email reminders
 - PWA support (installable on mobile)
 - Hosted entirely on AWS Free Tier (S3 + CloudFront + Lambda + DynamoDB)
@@ -62,4 +62,4 @@ Future milestone: PWA + reminder notifications
 
 ## Credits
 
-Made by [Your Name] — to stay sharp & build something useful ❤️
+Made by Anujan — to stay sharp & build something useful ❤️
